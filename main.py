@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 A simple FastAPI application that provides weather information for a given location.
-It uses the wttr.in service to fetch weather data asynchronously."""
+It uses the wttr.in service to fetch weather data asynchronously.
+"""
 
 
 from fastapi import FastAPI
